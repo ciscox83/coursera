@@ -1,0 +1,3 @@
+UI
+--
+http://android-developers.blogspot.co.uk/2011/07/new-tools-for-managing-screen-sizes.html
